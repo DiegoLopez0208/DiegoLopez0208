@@ -38,11 +38,10 @@
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="30" />
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="30" />
   <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/sqlite-original.svg" height="30" />
   <img src="https://profilinator.rishav.dev/skills-assets/graphql.png" height="30" />
   <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="30" />
   <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" height="30" />
-  <img src="https://profilinator.rishav.dev/skills-assets/storybook-icon.svg" height="30" />
+
 </div>
 
 ---
